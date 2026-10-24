@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Node.js
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# VS Code
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
